@@ -1,6 +1,6 @@
-# Raspagem de Notícias
+# Sentimento por Pessoa em Notícias
 
-Este projeto fornece um notebook base para fazer raspagem (web scraping) de notícias em um site à sua escolha, com boas práticas de educação com o servidor (delays, retries simples) e salvamento em CSV/JSON.
+Projeto para raspagem de notícias e análise de sentimento direcionado a pessoas citadas, gerando CSVs e relatórios explicativos para uso editorial e acompanhamento.
 
 ## Passo a passo
 
@@ -49,6 +49,10 @@ Este projeto fornece um notebook base para fazer raspagem (web scraping) de not�
 ## Problemas comuns
 - Codificação/acentos: o `requests` e `BeautifulSoup` com `lxml` geralmente lidam bem, mas pode ser necessário forçar `response.encoding`.
 - Bloqueios/403: reduza a taxa, varie o `User-Agent`, e assegure-se de estar em conformidade com as políticas do site.
+
+## Dados locais (privacidade)
+- Os dados gerados localmente (SQLite e CSVs em `data/`) não são versionados por padrão (`.gitignore`).
+- A pasta `data/` é mantida apenas com um marcador (`data/.gitkeep`) para preservar a estrutura.
 
 ## Documentação
 - Guia do Cliente — Análise de Sentimento e CSVs: docs/guia_cliente_analise_sentimento.md
