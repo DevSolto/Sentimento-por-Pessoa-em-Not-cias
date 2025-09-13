@@ -17,5 +17,14 @@ venv/
 .vscode/
 
 # Data
-/data/raw/
-/data/processed/
+# Ignorar dados locais e artefatos gerados
+/data/*
+!/data/.gitkeep
+
+# Bancos e artefatos de SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# CSVs exportados
+/data/reports/

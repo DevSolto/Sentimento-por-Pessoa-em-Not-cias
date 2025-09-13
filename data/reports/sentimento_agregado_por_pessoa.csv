@@ -1,7 +1,0 @@
-id_pessoa,nome_pessoa,qtd_total,qtd_pos,qtd_neg,qtd_neu,pct_pos,pct_neg,pct_neu,pct_mencao_direta
-2,Marcia Conrado,26639,344,243,26052,0.013,0.009,0.978,0.066
-6,Luciano Duque,12001,528,223,11250,0.044,0.019,0.937,0.173
-59,Miguel Duque,6309,234,82,5993,0.037,0.013,0.950,0.158
-3,Sebastião Oliveira,5354,112,64,5178,0.021,0.012,0.967,0.089
-1,Breno Araújo,2387,10,10,2367,0.004,0.004,0.992,0.013
-683,Marcelo Gouveia,110,0,0,110,0.000,0.000,1.000,0.018
