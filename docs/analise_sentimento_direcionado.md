@@ -1,4 +1,4 @@
-# Análise de Sentimento Direcionado (Comentários → Pessoas Citadas)
+# Sentimento por Pessoa em Notícias — Análise de Sentimento Direcionado (Comentários → Pessoas Citadas)
 
 ## Visão Geral
 

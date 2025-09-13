@@ -1,4 +1,4 @@
-# Guia do Cliente — Análise de Sentimento e Relatórios (CSV)
+# Sentimento por Pessoa em Notícias — Guia do Cliente (Análise de Sentimento e CSVs)
 
 Este guia explica, em linguagem simples, como funciona a análise de sentimento aplicada aos comentários das notícias e como interpretar os arquivos CSV gerados. O objetivo é que você entenda o que foi medido, como foi calculado e como usar os resultados.
 
